@@ -7,7 +7,6 @@ Creative Technologist
 Austin is a highly creative and driven software engineer with a background in digital marketing. He brings a unique perspective to the field of mobile app development, using his skills to create engaging and user-friendly software experiences. Despite being new to the industry, he has proven to be a quick learner and is excited to apply his skills to create innovative and impactful solutions for clients. He is passionate about staying up-to-date with the latest technologies and trends in the field, and he's eager to work in a dynamic and forward-thinking environment.
 
 *   🌍  I'm based in Minneapolis, Minnesota, United States of America
-*   🖥️  See my portfolio at [GitHub](http://github.com/AGCrossman95)
 *   ✉️  You can contact me at [agcrossman01@icloud.com](mailto:agcrossman01@icloud.com)
 *   🧠  I'm learning ARKit, SwiftUI, CoreML
 *   🤝  I'm open to collaborating on all project opportunities
