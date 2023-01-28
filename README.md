@@ -6,11 +6,13 @@ Creative Technologist
 
 Austin is a highly creative and driven software engineer with a background in digital marketing. He brings a unique perspective to the field of mobile app development, using his skills to create engaging and user-friendly software experiences. Despite being new to the industry, he has proven to be a quick learner and is excited to apply his skills to create innovative and impactful solutions for clients. He is passionate about staying up-to-date with the latest technologies and trends in the field, and he's eager to work in a dynamic and forward-thinking environment.
 
-*   🌍  I'm based in Minneapolis, Minnesota, United States of America
-*   🖥️  See my portfolio at [GitHub](http://github.com/AGCrossman95)
-*   ✉️  You can contact me at [agcrossman01@icloud.com](mailto:agcrossman01@icloud.com)
-*   🧠  I'm learning ARKit, SwiftUI, CoreML
-*   🤝  I'm open to collaborating on all project opportunities### Skills 
+*   🌍  I'm based in Minneapolis, Minnesota, United States of America
+*   🖥️  See my portfolio at [GitHub](http://github.com/AGCrossman95)
+*   ✉️  You can contact me at [agcrossman01@icloud.com](mailto:agcrossman01@icloud.com)
+*   🧠  I'm learning ARKit, SwiftUI, CoreML
+*   🤝  I'm open to collaborating on all project opportunities
+
+### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -28,13 +30,7 @@ Austin is a highly creative and driven software engineer with a background in di
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
+
                   ### Socials
                   
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/AGCrossman95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/austin-crossman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/17758268/austin-crossman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+                  <p align="left"> <a href="https://www.github.com/AGCrossman95" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/austin-crossman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17758268/austin-crossman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
